@@ -1,0 +1,375 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+/*first boxe*/
+.one1 {
+    height: 500px;
+    width: 500px;
+    margin: 18px;
+    background-color: white;
+    border-style: groove;
+    position: static;
+}
+
+
+.one {
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    border-style: dashed;
+    position: relative;
+    left: 150px;
+    bottom: 400px;
+}
+
+
+/*secound boxe*/
+
+
+.box1{
+    height: 100px;
+    width: 300px;
+    background-color: white;
+    border-style: groove;
+    position: static;
+    display: inline-block;
+}
+
+.box2{
+    height: 100px;
+    width: 300px;
+    background-color: white;
+    border-style: groove;
+    position: static;
+    display: inline-block;
+
+}
+
+.box3{
+    height: 100px;
+    width: 300px;
+    background-color: white;
+    border-style: groove;
+    display: inline-block;
+}
+.box4{
+    
+}
+
+.box6{
+    height: 100px;
+    width: 460px;
+    background-color: white;
+    border-style: groove;
+    display: inline-block;
+}
+
+
+/*secound raw boxe*/
+
+.small1{
+    height: 100px;
+    width: 135px;
+    background-color: black;
+    border-style: groove;
+    display: inline-block;
+}
+.small2{
+    height: 100px;
+    width: 140px;
+    background-color: white;
+    border-style: groove;
+    display: inline-block;
+}
+.small3{
+    height: 100px;
+    width: 140px;
+    background-color: black;
+    border-style: groove;
+    display: inline-block;
+}
+.small4{
+    height: 100px;
+    width: 140px;
+    background-color: white;
+    border-style: groove;
+    display: inline-block;
+}
+.small5{
+    height: 100px;
+    width: 140px;
+    background-color: black;
+    border-style: groove;
+    display: inline-block;
+}
+.small6{
+    height: 100px;
+    width: 150px;
+    background-color: white;
+    border-style: groove;
+    display: inline-block;
+}
+
+
+
+.con1{
+    margin: 15px;
+    height: 300px;
+    width: 1200px;
+    background-color: white;
+    border-style: groove;
+    position: static;
+}
+
+.col2{
+    font-size: 50px;
+    height: 110px;
+    width: 500px;
+    background-color: purple;
+    color: white;
+    position: relative;
+    bottom: 290px;
+    left: 50px;
+
+}
+
+.col3{
+    font-size: 50px;
+    height: 110px;
+    width: 900px;
+    background-color: purple;
+    color: white;
+    position: relative;
+    bottom: 255px;
+    left: 50px;
+
+}
+
+.col4{
+    margin: 15px;
+    height: 300px;
+    width: 1200px;
+    background-color: white;
+    border-style: groove;
+    position: static;
+}
+
+.col5{
+    font-size: 50px;
+    height: 110px;
+    width: 700px;
+    background-color: purple;
+    color: white;
+    position: relative;
+    bottom: 300px;
+    left: 350px;
+}
+.col6{
+    font-size: 50px;
+    height: 110px;
+    width: 300px;
+    background-color: purple;
+    color: white;
+    position: relative;
+    bottom: 295px;
+    left: 50px;
+}
+h1{
+    padding-left: 550px;
+}
+
+.container4{
+    margin: 20px;
+}
+
+.red{
+    width: 1000px;
+    height: 300px;
+    background-color: red;
+}
+
+.num{
+    padding: 100px;
+}
+.red1{
+    font-size: 80px;
+    color: white;
+    display: inline-block;
+}
+
+.red2{
+    font-size: 80px;
+    color: white;
+    display: inline;
+    padding-left: 200px;
+}
+
+.red3{
+    font-size: 80px;
+    color: white;
+    display: inline;
+    padding-left: 200px;
+}
+
+.red4{
+    font-size: 80px;
+    color: white;
+    display: inline;
+    padding-left: 200px;
+}
+
+.black{
+    width: 1000px;
+    height: 300px;
+    background-color: black;
+    color: white;
+}
+
+.bla1{
+    font-size: 80px;
+    color: white;
+    display: inline-block;
+}
+
+.bla2{
+    font-size: 80px;
+    color: white;
+    display: inline;
+    padding-left: 200px;
+}
+
+.bla3{
+    font-size: 80px;
+    color: white;
+    display: inline;
+    padding-left: 200px;
+}
+
+.bla4{
+    font-size: 80px;
+    color: white;
+    display: inline;
+    padding-left: 200px;
+}
+
+
+.box{
+    height: 800px;
+    width: 800px;
+    border-style: groove;
+    margin: 100px;
+}
+
+.bl1{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    display: inline-block;
+}
+
+.bl2{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    display: inline-block;
+    margin-left: 590px;
+}
+
+.bl3{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    display: inline-block;
+    margin-top: 600px;
+
+}
+
+.bl4{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    display: inline-block;
+    margin-left: 595px;
+}
+
+.bl5{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    margin-left: 350px;
+    margin-top: -1500px;
+    margin-bottom: 350px;
+    display: inline-block;
+}
+
+
+
+
+.round{
+    height: 1000px;
+    width: 1000px;
+    border-style: groove;
+    margin: 100px;
+    padding: 200px;
+}
+
+.round1{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    background-color: green;
+    display: inline-block;
+
+}
+
+.round2{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    background-color: green;
+    display: inline-block;
+    margin-left: 390px;
+}
+
+.round3{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    background-color: green;
+    display: inline-block;
+    margin-top: 390px;
+}
+
+.round4{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    background-color: green;
+    display: inline-block;
+    margin-left: 390px;
+
+}
+
+
+.longbox{
+    height: 800px;
+    width: 1800px;
+    background-color: white;
+    border-style: groove;
+    margin: 100px;
+}
+
+.first-box{
+    height: 300px;
+    width: 1700px;
+    background-color: gray;
+    margin: 50px;
+}
+
+.first-small1{
+    height: 200px;
+    width: 566;
+    background-color: blue;
+}
